@@ -9,7 +9,7 @@ pip install matplotlib
 
 3. Remove the comma from lines 112, 115 if you want to see the words and colored circles in the plot window
 
-4. Run python main.py.##
+4. Run python main.py.
 According to the assignment, each output has a title.
 
 5. After the plot window appears, close it to print the last output.
